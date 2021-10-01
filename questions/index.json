@@ -3804,6 +3804,18 @@
 	"d": "Fluorine and Caesium",
 	"answer": "d"	
 
-        }
+        },
+	{
+  	"id": 385,
+  	"difficulty": 3,
+  	"question": "Where is the ‘National Institute of Biotic Stress Tolerance’ located?",
+  	"a": "Mumbai",
+  	"b": "Pune",
+  	"c": "Ahmedabad",
+  	"d": "Raipur",
+  	"answer": "d"
+	}
+}
+	
 
 ]
